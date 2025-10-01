@@ -453,3 +453,7 @@ mini2.MouseButton1Click:Connect(function()
     main.Frame.BackgroundTransparency = 0
     closebutton.Position = UDim2.new(0, 0, -1, 27)
 end)
+
+-- *** KẾT THÚC FILE ***
+
+-- Ghi chú: toàn bộ logic gốc đã được dán vào dưới UI mới. Cẩn trọng khi chạy script exploit trên tài khoản chính.
